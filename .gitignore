@@ -1,0 +1,9 @@
+# Ignore files that end with .in
+*.in
+
+# Ignore files that end with .out
+*.out
+
+# Ignore compiled Python files
+*.pyc
+
